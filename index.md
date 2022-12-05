@@ -1,7 +1,5 @@
 ---
 title: Welcome to my blog
-Name: My name's Nadia.
+date: 2022-12-05
 ---
 
-
-I'm learning how to use GitHub.
